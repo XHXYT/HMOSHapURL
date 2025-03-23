@@ -28,6 +28,9 @@ https://github.com/Aloereed/llama.cpp-server-ohos/releases
 - 流心视频 \
 https://github.com/Yebingiscn/SweetVideo/releases
 
+- Player \
+https://github.com/RohyTeam/Player
+
 - JellyFin_HarmonyOS \
 https://github.com/chashaochang/JellyFin_HarmonyOS/releases
 
