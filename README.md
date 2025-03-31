@@ -14,7 +14,8 @@ https://github.com/Chenlvin/CloudMusic-HarmonyOSNext/releases
 原版：https://github.com/Predidit/Kazumi/releases
 
 - 云享社 \
-https://github.com/Okysu/harmony-next-music-sharing/releases
+1.0：https://github.com/Okysu/harmony-next-music-sharing/releases \
+2.0：https://github.com/Edge-Music/Core
 
 - moonlight-harmonyos \
 https://github.com/likuai2010/moonlight-harmonyos
