@@ -4,7 +4,7 @@
 ## 开源项目
 - 冲浪喵 \
 Gitee： https://gitee.com/awa_Liny/LinysBrowser_NEXT/releases \
-Github-预发布(API无法查询)：https://github.com/awaLiny2333/LinysBrowser_NEXT/releases
+Github-预发布：https://github.com/awaLiny2333/LinysBrowser_NEXT/releases
 
 - 云音汇 \
 https://github.com/Chenlvin/CloudMusic-HarmonyOSNext/releases
@@ -40,7 +40,7 @@ https://github.com/chashaochang/JellyFin_HarmonyOS/releases
 分支：https://github.com/XHXYT/AnimeZ/releases
 
 - 开源阅读 \
-预发布(API无法查询)：https://github.com/mgz0227/legado-Harmony/releases
+预发布：https://github.com/mgz0227/legado-Harmony/releases
 
 - Pixez \
 鸿蒙版：https://github.com/bgli100/pixez-flutter-ohos \
