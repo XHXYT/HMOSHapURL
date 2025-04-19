@@ -9,13 +9,16 @@ Github-预发布：https://github.com/awaLiny2333/LinysBrowser_NEXT/releases
 - 云音汇 \
 https://github.com/Chenlvin/CloudMusic-HarmonyOSNext/releases
 
-- Kazumi \
-鸿蒙版：https://github.com/ErBWs/Kazumi/releases \
-原版：https://github.com/Predidit/Kazumi/releases
+- Melotopia \
+https://github.com/Chenlvin/Melotopia-HMOS
 
 - 云享社 \
 1.0：https://github.com/Okysu/harmony-next-music-sharing/releases \
 2.0：https://github.com/Edge-Music/Core
+
+- Kazumi \
+鸿蒙版：https://github.com/ErBWs/Kazumi/releases \
+原版：https://github.com/Predidit/Kazumi/releases
 
 - moonlight-harmonyos \
 https://github.com/likuai2010/moonlight-harmonyos
@@ -34,6 +37,9 @@ https://github.com/RohyTeam/Player
 
 - JellyFin_HarmonyOS \
 https://github.com/chashaochang/JellyFin_HarmonyOS/releases
+
+- 手柄测试 \
+https://github.com/crazypig321/Next_Controller
 
 - AnimeZ \
 主仓库：https://github.com/Z-P-J/AnimeZ/releases \
