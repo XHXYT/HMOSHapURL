@@ -46,10 +46,10 @@ https://github.com/crazypig321/Next_Controller
 分支：https://github.com/XHXYT/AnimeZ/releases
 
 - 开源阅读 \
-预发布：https://github.com/mgz0227/legado-Harmony/releases \
+预发布：https://github.com/mgz0227/legado-Harmony/releases 
 
 - 拷贝漫画 \
-https://github.com/niuhuan/copi-ohos \
+https://github.com/niuhuan/copi-ohos 
 
 - Pixez \
 鸿蒙版：https://github.com/bgli100/pixez-flutter-ohos \
