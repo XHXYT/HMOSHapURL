@@ -38,6 +38,9 @@ https://github.com/RohyTeam/Player
 - JellyFin_HarmonyOS \
 https://github.com/chashaochang/JellyFin_HarmonyOS/releases
 
+- Finmony(JellyFin)
+https://github.com/guhf/Finmony/releases/
+
 - 手柄测试 \
 https://github.com/crazypig321/Next_Controller
 
