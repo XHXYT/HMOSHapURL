@@ -48,6 +48,9 @@ https://github.com/crazypig321/Next_Controller
 主仓库：https://github.com/Z-P-J/AnimeZ/releases \
 分支：https://github.com/XHXYT/AnimeZ/releases
 
+-
+https://github.com/SummerKaze/HMOS-AppBundleNameForShared
+
 - 开源阅读 \
 预发布：https://github.com/mgz0227/legado-Harmony/releases 
 
