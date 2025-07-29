@@ -1,0 +1,77 @@
+{
+  "repos": [
+   {
+      "label": "Auto-Installer",
+      "url": "https://github.com/likuai2010/auto-installer"
+    },
+    {
+      "label": "冲浪喵",
+      "url": "https://gitee.com/awa_Liny/LinysBrowser_NEXT"
+    },
+    {
+      "label": "Melotopia",
+      "url": "https://github.com/Chenlvin/Melotopia-HMOS"
+    },
+    {
+      "label": "Kazumi",
+      "url": "https://github.com/ErBWs/Kazumi"
+    },
+    {
+      "label": "moonlight-harmonyos",
+      "url": "https://github.com/likuai2010/moonlight-harmonyos"
+    },
+    {
+      "label": "moonlight-oh",
+      "url": "https://gitee.com/smdsbz/moonlight-ohos"
+    },
+    {
+      "label": "Llama.cpp Server",
+      "url": "https://github.com/Aloereed/llama.cpp-server-ohos"
+    },
+    {
+      "label": "流心视频",
+      "url": "https://github.com/Yebingiscn/SweetVideo"
+    },
+    {
+      "label": "Player",
+      "url": "https://github.com/RohyTeam/Player"
+    },
+    {
+      "label": "JellyFin_HarmonyOS",
+      "url": "https://github.com/chashaochang/JellyFin_HarmonyOS"
+    },
+    {
+      "label": "Finmony",
+      "url": "https://github.com/guhf/Finmony"
+    },
+    {
+      "label": "手柄测试",
+      "url": "https://github.com/crazypig321/Next_Controller"
+    },
+    {
+      "label": "AnimeZ",
+      "url": "https://github.com/Z-P-J/AnimeZ"
+    },
+    {
+      "label": "应用包名获取",
+      "url": "https://github.com/SummerKaze/HMOS-AppBundleNameForShared"
+    },
+    {
+      "label": "开源阅读",
+      "url": "https://github.com/mgz0227/legado-Harmony"
+    },
+    {
+      "label": "拷贝漫画",
+      "url": "https://github.com/niuhuan/copi-ohos"
+    },
+    {
+      "label": "Pixez",
+      "url": "https://github.com/bgli100/pixez-flutter-ohos"
+    },
+    {
+      "label": "PicACG-OH",
+      "url": "https://github.com/Luxcis/PicACG_Next"
+    },
+  ],
+  "updateTime": "1747585334677"
+}
