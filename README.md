@@ -1,6 +1,8 @@
 # 鸿蒙应用收藏集
 一个鸿蒙应用仓库收藏集，致力于收藏展示适配鸿蒙平台项目
 
+快捷导入方式(请确保能够正常访问此链接)：https://gitee.com/fastCode2019/test-vulkan/releases/download/21/repo_config.json
+
 ## 开源项目
 - 冲浪喵 \
 Gitee： https://gitee.com/awa_Liny/LinysBrowser_NEXT/releases \
@@ -42,7 +44,7 @@ https://github.com/crazypig321/Next_Controller
 分支：https://github.com/XHXYT/AnimeZ/releases
 
 - 应用包名分享 \
-https://github.com/SummerKaze/HMOS-AppBundleNameForShared
+https://github.com/SummerKaze/AppBundleNameForShared
 
 - 开源阅读 \
 预发布：https://github.com/mgz0227/legado-Harmony/releases 
