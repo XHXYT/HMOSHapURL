@@ -6,15 +6,8 @@
 Gitee： https://gitee.com/awa_Liny/LinysBrowser_NEXT/releases \
 Github-预发布：https://github.com/awaLiny2333/LinysBrowser_NEXT/releases
 
-- 云音汇 \
-https://github.com/Chenlvin/CloudMusic-HarmonyOSNext/releases
-
 - Melotopia \
 https://github.com/Chenlvin/Melotopia-HMOS
-
-- 云享社 \
-1.0：https://github.com/Okysu/harmony-next-music-sharing/releases \
-2.0：https://github.com/Edge-Music/Core
 
 - Kazumi \
 鸿蒙版：https://github.com/ErBWs/Kazumi/releases \
