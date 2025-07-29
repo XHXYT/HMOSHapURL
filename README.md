@@ -1,7 +1,7 @@
 # 鸿蒙应用收藏集
 一个鸿蒙应用仓库收藏集，致力于收藏展示适配鸿蒙平台项目
 
-快捷导入方式(请确保能够正常访问此链接)：https://gitee.com/fastCode2019/test-vulkan/releases/download/21/repo_config.json
+快捷导入方式(请确保能够正常访问此链接)：https://github.com/XHXYT/HMOSHapURL/blob/main/repo_config.json
 
 ## 开源项目
 - 冲浪喵 \
